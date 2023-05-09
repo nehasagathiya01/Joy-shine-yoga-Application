@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Yogalist">
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="326dp"
+        android:layout_height="51dp"
+        android:backgroundTint="#EE4BC7"
+        android:insetLeft="1dp"
+        android:insetRight="1dp"
+        android:insetBottom="2dp"
+        android:text="Surya namaskar"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.091" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="359dp"
+        android:layout_height="55dp"
+        android:backgroundTint="#EE4BC7"
+        android:insetLeft="16dp"
+        android:insetRight="16dp"
+        android:insetBottom="2dp"
+        android:text="Dhanurasan"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.196" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="328dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="60dp"
+        android:backgroundTint="#EE4BC7"
+        android:insetLeft="10dp"
+        android:insetRight="10dp"
+        android:insetBottom="2dp"
+        android:text="Gaumukhasan"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.506"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.261" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="332dp"
+        android:layout_height="54dp"
+        android:backgroundTint="#EE4BC7"
+        android:insetLeft="10dp"
+        android:insetRight="10dp"
+        android:insetBottom="2dp"
+        android:text="Shavasan"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.481"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.456" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="332dp"
+        android:layout_height="53dp"
+        android:backgroundTint="#EE4BC7"
+        android:insetLeft="10dp"
+        android:insetRight="10dp"
+        android:insetBottom="2dp"
+        android:text="Trikonasan"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.531"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.597" />
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="322dp"
+        android:layout_height="58dp"
+        android:backgroundTint="#EE4BC7"
+        android:insetLeft="10dp"
+        android:insetRight="10dp"
+        android:insetBottom="2dp"
+        android:text="Chakrasan"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.539"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.736" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="333dp"
+        android:layout_height="51dp"
+        android:backgroundTint="#EE4BC7"
+        android:insetLeft="10dp"
+        android:insetRight="10dp"
+        android:insetBottom="2dp"
+        android:text="Bhujangasan"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.615"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.87" />
+</androidx.constraintlayout.widget.ConstraintLayout>
